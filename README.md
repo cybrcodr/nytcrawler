@@ -1,4 +1,4 @@
-# nyt crawler
+# nytcrawler
 
 This program was written by Herbie Ong and Helena Ong to collect specific data
 from NYTimes.com. The collected data was then further processed by Helena
